@@ -12,5 +12,9 @@ module.exports = {
     campomesAnoNascimento: '#DateOfBirthYear.flexiField_Input',
     campoCaptcha: '#CaptchaInput.flexiField_Input',
     segundoBotaoDeLoginClicavel: '#LogIn.accept-button',
-    TerceiraTelaBotaoPesquisar: '.hm-MainHeaderRHSLoggedInWide_SiteSearchButton'
+    TerceiraTelaBotaoPesquisar: '.hm-MainHeaderRHSLoggedInWide_SiteSearchButton',
+    botaoDePesquisa: '.hm-MainHeaderRHSLoggedInWide_SiteSearchButton',
+    iframeSelector: '.lp-UserNotificationsPopup_Frame ',
+    iframeURL: 'iframe[src="https://members.bet365.com/members/services/notifications/process"]',
+    imagemCaptcha: '#CaptchaCode img'
 }
